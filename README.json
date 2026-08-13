@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T00:14:12Z",
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90127
+            "stars": 90136
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T02:21:16Z",
             "owner": "upptime",
             "repo": "upptime",
-            "stars": 17130
+            "stars": 17132
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-12T17:24:27Z",
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10514
+            "stars": 10515
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-12T16:03:25Z",
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7357
+            "stars": 7358
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-06-01T15:10:21Z",
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3719
+            "stars": 3720
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-05-24T21:20:21Z",
             "owner": "0xfurai",
             "repo": "peekaping",
-            "stars": 1171
+            "stars": 1172
           }
         },
         {
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:33:24.759Z",
+    "last_updated": "2026-08-13T07:51:14.476Z",
     "original_repository": "ivbeg/awesome-status-pages",
     "original_repository_sha": "b21533a1459e6e28af650202088d7c51168f06c3",
     "enhanced_repository": "enhansome/enhansome-status-pages",
