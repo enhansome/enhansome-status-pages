@@ -1,0 +1,548 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uptime-Kuma",
+          "description": "A self-hosted monitoring tool like \"Uptime Robot\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:14:12Z",
+            "owner": "louislam",
+            "repo": "uptime-kuma",
+            "stars": 90127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Upptime",
+          "description": "monitor and status page powered by GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-13T02:21:16Z",
+            "owner": "upptime",
+            "repo": "upptime",
+            "stars": 17130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cachet",
+          "description": "Laravel based status page system for everyone. 3.x coming soon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T18:56:39Z",
+            "owner": "cachethq",
+            "repo": "cachet",
+            "stars": 15215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatus",
+          "description": "Automated service health dashboard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T02:51:59Z",
+            "owner": "TwiN",
+            "repo": "gatus",
+            "stars": 11799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Checkmate",
+          "description": "(previously \"BlueWave Uptime\") - Checkmate is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time, featuring a modern UI. Additionally, Checkmate supports E-mail, Webhook, Discord and Slack notifications and has a multi-language frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:24:27Z",
+            "owner": "bluewave-labs",
+            "repo": "Checkmate",
+            "stars": 10514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HertzBeat",
+          "description": "An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T16:03:25Z",
+            "owner": "apache",
+            "repo": "hertzbeat",
+            "stars": 7357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corestats - (Discontinued / Un-Supported)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-15T03:21:27Z",
+            "owner": "jayfk",
+            "repo": "statuspage",
+            "stars": 3874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UptimeFlare",
+          "description": "Another monitoring & status page completely powered by Cloudflare Workers & Pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T15:10:21Z",
+            "owner": "lyc8503",
+            "repo": "UptimeFlare",
+            "stars": 3719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cState",
+          "description": "Simple, dev friendly, and free to host (Netlify & GitHub Pages)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-26T16:01:46Z",
+            "owner": "cstate",
+            "repo": "cstate",
+            "stars": 2894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workers Status Page",
+          "description": "Cloudflare Workers (completely on the edge) powered monitoring & status page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-21T08:32:55Z",
+            "owner": "eidam",
+            "repo": "cf-workers-status-page",
+            "stars": 2812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "statping-ng",
+          "description": "Actively maintained fork of statping/statping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-04T20:21:10Z",
+            "owner": "statping-ng",
+            "repo": "statping-ng",
+            "stars": 1986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ciao",
+          "description": "checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-16T17:12:32Z",
+            "owner": "brotandgames",
+            "repo": "ciao",
+            "stars": 1972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vigil",
+          "description": "Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-03T19:22:13Z",
+            "owner": "valeriansaliou",
+            "repo": "vigil",
+            "stars": 1938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StatusOK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-08-11T16:30:28Z",
+            "owner": "sanathp",
+            "repo": "statusok",
+            "stars": 1643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peekaping",
+          "description": "A self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-24T21:20:21Z",
+            "owner": "0xfurai",
+            "repo": "peekaping",
+            "stars": 1171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Statsig's Status Page",
+          "description": "A simple, pure html/js, zero-dependency status page powered by GitHub Pages and Actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-01T04:55:11Z",
+            "owner": "statsig-io",
+            "repo": "statuspage",
+            "stars": 771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Static status",
+          "description": "Bash script to generate a static status page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T10:06:56Z",
+            "owner": "Cyclenerd",
+            "repo": "static_status",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinystatus",
+          "description": "A tiny static status page generator (written in pure shell)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-20T20:56:39Z",
+            "owner": "bderenzo",
+            "repo": "tinystatus",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "health_check",
+          "description": "Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-14T19:19:19Z",
+            "owner": "Purple-Devs",
+            "repo": "health_check",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Issue Status",
+          "description": "Simple, modern and flexible status page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-24T11:35:12Z",
+            "owner": "tadhglewis",
+            "repo": "issue-status",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Server-Status",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T10:11:38Z",
+            "owner": "server-status-project",
+            "repo": "server-status",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dish",
+          "description": "Simple and fast socket checker written in Go, can be integrated with a Telegram bot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-04T15:32:55Z",
+            "owner": "thevxn",
+            "repo": "dish",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fettle",
+          "description": "An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:56:16Z",
+            "owner": "mehatab",
+            "repo": "fettle",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kardio",
+          "description": "Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-02-05T16:54:38Z",
+            "owner": "tmobile",
+            "repo": "kardio",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "health-monitor-rails",
+          "description": "A Rails plugin which provides a health checking and monitoring API of various services and application aspects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-04-27T23:44:42Z",
+            "owner": "lbeder",
+            "repo": "health-monitor-rails",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClearStatus",
+          "description": "Hugo-based status page, supports Netlify. Supports events from Github, Gitlab or any git repo with markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-31T01:20:53Z",
+            "owner": "weeblrpress",
+            "repo": "clearstatus",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "statuspage - Simple self-hosted open source status page site written in Django (inspired by Cachet",
+          "description": ") (Discontinued)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-22T23:33:06Z",
+            "owner": "darkpixel",
+            "repo": "statuspage",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Statusimo",
+          "description": "A PowerShell module that is able to generate a status page entirely from PowerShell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-04-11T10:18:54Z",
+            "owner": "EvotecIT",
+            "repo": "Statusimo",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "status-page",
+          "description": "Mountable status page for your Rails application, to check Cache, Redis, Sidekiq",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-09-29T12:53:11Z",
+            "owner": "rails-engine",
+            "repo": "status-page",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Status-Page (Discontinued)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-10-28T16:55:43Z",
+            "owner": "Status-Page",
+            "repo": "Status-Page",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Statusphere",
+          "description": "Api-first status page aggregator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-27T09:51:32Z",
+            "owner": "metoro-io",
+            "repo": "statusphere",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aPulse",
+          "description": "A One-File Nodejs Server Status Monitoring Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-24T18:47:59Z",
+            "owner": "ybouane",
+            "repo": "aPulse",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-statusboard",
+          "description": "Django status page application with browser and REST interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-29T14:49:42Z",
+            "owner": "edigiacomo",
+            "repo": "django-statusboard",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Status Page",
+          "description": "GitHub powered status page utilizing GitHub Actions to fetch metrics, issues to generate report incidents and GitHub pages for hosting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-07T08:47:38Z",
+            "owner": "Bullrich",
+            "repo": "Status-Page",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pagetron",
+          "description": "Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-04-13T08:50:50Z",
+            "owner": "agrrh",
+            "repo": "pagetron",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIWatch",
+          "description": "Open-source dashboard for monitoring third-party AI services (31 services including Claude, OpenAI, Gemini, Mistral, Groq) with reliability scoring, incident analysis, and Discord/Slack alerts. Built on Cloudflare Workers + KV. Live demo at https://ai-watch.dev. AGPL-3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:58:29Z",
+            "owner": "bentleypark",
+            "repo": "aiwatch",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOSSboard",
+          "description": "MOSSBoard is a self-hosted, Docker-based status page that monitors and displays the operational state of your services, built with python and vuejs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-04-17T22:30:04Z",
+            "owner": "lanbugs",
+            "repo": "mossboard",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Okazanta (Discontinued / Un-Supported)",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Uptimon - A PHP powered status page/monitoring solution. (Looks like project removed or set to private)",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Opensource"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:33:24.759Z",
+    "original_repository": "ivbeg/awesome-status-pages",
+    "original_repository_sha": "b21533a1459e6e28af650202088d7c51168f06c3",
+    "enhanced_repository": "enhansome/enhansome-status-pages",
+    "enhanced_repository_description": null,
+    "title": "Awesome status pages with stars"
+  }
+}
