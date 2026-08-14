@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T00:14:12Z",
+            "last_commit": "2026-08-14T00:14:25Z",
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90136
+            "stars": 90161
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Markdown",
-            "last_commit": "2026-08-13T02:21:16Z",
+            "last_commit": "2026-08-14T02:19:28Z",
             "owner": "upptime",
             "repo": "upptime",
-            "stars": 17132
+            "stars": 17134
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-11T18:56:39Z",
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15215
+            "stars": 15214
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-09T02:51:59Z",
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 11799
+            "stars": 11806
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-12T17:24:27Z",
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10515
+            "stars": 10520
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T16:03:25Z",
+            "last_commit": "2026-08-14T02:53:25Z",
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7358
+            "stars": 7360
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-06-01T15:10:21Z",
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3720
+            "stars": 3723
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-06-26T16:01:46Z",
             "owner": "cstate",
             "repo": "cstate",
-            "stars": 2894
+            "stars": 2895
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2024-08-21T08:32:55Z",
             "owner": "eidam",
             "repo": "cf-workers-status-page",
-            "stars": 2812
+            "stars": 2811
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-05-03T19:22:13Z",
             "owner": "valeriansaliou",
             "repo": "vigil",
-            "stars": 1938
+            "stars": 1939
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-05-24T21:20:21Z",
             "owner": "0xfurai",
             "repo": "peekaping",
-            "stars": 1172
+            "stars": 1173
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-05-01T04:55:11Z",
             "owner": "statsig-io",
             "repo": "statuspage",
-            "stars": 771
+            "stars": 772
           }
         },
         {
@@ -319,7 +319,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:56:16Z",
+            "last_commit": "2026-08-14T00:55:24Z",
             "owner": "mehatab",
             "repo": "fettle",
             "stars": 279
@@ -501,7 +501,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T09:58:29Z",
+            "last_commit": "2026-08-14T00:42:49Z",
             "owner": "bentleypark",
             "repo": "aiwatch",
             "stars": 23
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:51:14.476Z",
+    "last_updated": "2026-08-14T07:48:28.156Z",
     "original_repository": "ivbeg/awesome-status-pages",
     "original_repository_sha": "b21533a1459e6e28af650202088d7c51168f06c3",
     "enhanced_repository": "enhansome/enhansome-status-pages",
