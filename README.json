@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T00:05:58Z",
+            "last_commit": "2026-08-16T00:05:18Z",
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90189
+            "stars": 90212
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Markdown",
-            "last_commit": "2026-08-15T01:36:08Z",
+            "last_commit": "2026-08-16T01:38:38Z",
             "owner": "upptime",
             "repo": "upptime",
             "stars": 17136
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-11T18:56:39Z",
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15215
+            "stars": 15216
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-15T02:09:05Z",
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 11814
+            "stars": 11819
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-12T17:24:27Z",
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10524
+            "stars": 10527
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-14T17:44:43Z",
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7360
+            "stars": 7362
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-06-01T15:10:21Z",
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3722
+            "stars": 3723
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2025-06-04T20:21:10Z",
             "owner": "statping-ng",
             "repo": "statping-ng",
-            "stars": 1987
+            "stars": 1988
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-07-16T17:12:32Z",
             "owner": "brotandgames",
             "repo": "ciao",
-            "stars": 1974
+            "stars": 1976
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-05-03T19:22:13Z",
             "owner": "valeriansaliou",
             "repo": "vigil",
-            "stars": 1939
+            "stars": 1938
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2021-08-11T16:30:28Z",
             "owner": "sanathp",
             "repo": "statusok",
-            "stars": 1643
+            "stars": 1644
           }
         },
         {
@@ -235,7 +235,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-15T06:26:46Z",
+            "last_commit": "2026-08-15T07:06:07Z",
             "owner": "Cyclenerd",
             "repo": "static_status",
             "stars": 733
@@ -319,7 +319,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:31:30Z",
+            "last_commit": "2026-08-16T00:33:10Z",
             "owner": "mehatab",
             "repo": "fettle",
             "stars": 279
@@ -462,7 +462,7 @@
             "last_commit": "2026-05-29T14:49:42Z",
             "owner": "edigiacomo",
             "repo": "django-statusboard",
-            "stars": 56
+            "stars": 55
           }
         },
         {
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:56:00.369Z",
+    "last_updated": "2026-08-16T06:57:19.355Z",
     "original_repository": "ivbeg/awesome-status-pages",
     "original_repository_sha": "b21533a1459e6e28af650202088d7c51168f06c3",
     "enhanced_repository": "enhansome/enhansome-status-pages",
