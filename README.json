@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T00:32:45Z",
+            "last_commit": "2026-08-19T00:33:12Z",
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90272
+            "stars": 90329
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Markdown",
-            "last_commit": "2026-08-18T01:26:07Z",
+            "last_commit": "2026-08-19T01:38:16Z",
             "owner": "upptime",
             "repo": "upptime",
             "stars": 17136
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-17T08:56:22Z",
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15219
+            "stars": 15220
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-18T01:22:58Z",
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 11835
+            "stars": 11851
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:47:14Z",
+            "last_commit": "2026-08-18T18:25:07Z",
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10548
+            "stars": 10556
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-18T06:05:22Z",
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7361
+            "stars": 7364
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-06-01T15:10:21Z",
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3724
+            "stars": 3727
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-06-26T16:01:46Z",
             "owner": "cstate",
             "repo": "cstate",
-            "stars": 2895
+            "stars": 2894
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-07-16T17:12:32Z",
             "owner": "brotandgames",
             "repo": "ciao",
-            "stars": 1976
+            "stars": 1977
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-05-03T19:22:13Z",
             "owner": "valeriansaliou",
             "repo": "vigil",
-            "stars": 1938
+            "stars": 1939
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-05-24T21:20:21Z",
             "owner": "0xfurai",
             "repo": "peekaping",
-            "stars": 1175
+            "stars": 1176
           }
         },
         {
@@ -319,7 +319,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T00:31:05Z",
+            "last_commit": "2026-08-19T00:31:19Z",
             "owner": "mehatab",
             "repo": "fettle",
             "stars": 279
@@ -481,6 +481,20 @@
         },
         {
           "node_type": "item",
+          "title": "AIWatch",
+          "description": "Open-source dashboard for monitoring third-party AI services (31 services including Claude, OpenAI, Gemini, Mistral, Groq) with reliability scoring, incident analysis, and Discord/Slack alerts. Built on Cloudflare Workers + KV. Live demo at https://ai-watch.dev. AGPL-3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T06:48:28Z",
+            "owner": "bentleypark",
+            "repo": "aiwatch",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Pagetron",
           "description": "Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters",
           "children": [],
@@ -491,20 +505,6 @@
             "owner": "agrrh",
             "repo": "pagetron",
             "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AIWatch",
-          "description": "Open-source dashboard for monitoring third-party AI services (31 services including Claude, OpenAI, Gemini, Mistral, Groq) with reliability scoring, incident analysis, and Discord/Slack alerts. Built on Cloudflare Workers + KV. Live demo at https://ai-watch.dev. AGPL-3.0.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T05:08:12Z",
-            "owner": "bentleypark",
-            "repo": "aiwatch",
-            "stars": 26
           }
         },
         {
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:02:19.251Z",
+    "last_updated": "2026-08-19T07:03:30.188Z",
     "original_repository": "ivbeg/awesome-status-pages",
     "original_repository_sha": "b21533a1459e6e28af650202088d7c51168f06c3",
     "enhanced_repository": "enhansome/enhansome-status-pages",
