@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T03:32:09Z",
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90540
+            "stars": 90556
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-18T01:22:58Z",
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 11889
+            "stars": 11891
           }
         },
         {
@@ -87,16 +87,16 @@
             "archived": false,
             "id": 455584258,
             "language": "Java",
-            "last_commit": "2026-08-24T07:10:56Z",
+            "last_commit": "2026-08-24T10:48:51Z",
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7373
+            "stars": 7374
           }
         },
         {
           "node_type": "item",
-          "title": "Corestats - (Discontinued / Un-Supported)",
-          "description": null,
+          "title": "Corestats",
+          "description": "(Discontinued / Un-Supported)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -135,7 +135,7 @@
             "last_commit": "2026-06-26T16:01:46Z",
             "owner": "cstate",
             "repo": "cstate",
-            "stars": 2894
+            "stars": 2892
           }
         },
         {
@@ -342,7 +342,7 @@
             "archived": false,
             "id": 521632923,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T00:32:55Z",
+            "last_commit": "2026-08-24T12:21:28Z",
             "owner": "mehatab",
             "repo": "fettle",
             "stars": 279
@@ -395,8 +395,8 @@
         },
         {
           "node_type": "item",
-          "title": "statuspage - Simple self-hosted open source status page site written in Django (inspired by Cachet",
-          "description": ") (Discontinued)",
+          "title": "statuspage",
+          "description": "Simple self-hosted open source status page site written in Django (inspired by Cachet) (Discontinued)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,8 +440,8 @@
         },
         {
           "node_type": "item",
-          "title": "Status-Page (Discontinued)",
-          "description": null,
+          "title": "Status-Page",
+          "description": "(Discontinued)",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -522,7 +522,7 @@
             "archived": false,
             "id": 1185924743,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:09:50Z",
+            "last_commit": "2026-08-24T12:17:23Z",
             "owner": "bentleypark",
             "repo": "aiwatch",
             "stars": 27
@@ -557,13 +557,28 @@
             "repo": "mossboard",
             "stars": 5
           }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeStellar Console",
+          "description": "Multi-cluster Kubernetes management console with built-in cluster health dashboards; provides real-time status monitoring across cloud and edge Kubernetes deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1135473716,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:52:39Z",
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 127
+          }
         }
       ],
       "title": "Opensource"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:18:57.029Z",
+    "last_updated": "2026-08-24T13:59:53.244Z",
     "original_repository": "ivbeg/awesome-status-pages",
     "original_repository_id": 85031126,
     "original_repository_sha": "b21533a1459e6e28af650202088d7c51168f06c3",
