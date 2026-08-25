@@ -12,10 +12,10 @@
             "archived": false,
             "id": 382496361,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T03:32:09Z",
+            "last_commit": "2026-08-25T00:05:49Z",
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90556
+            "stars": 90582
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 286080143,
             "language": "Markdown",
-            "last_commit": "2026-08-24T01:38:34Z",
+            "last_commit": "2026-08-25T01:33:47Z",
             "owner": "upptime",
             "repo": "upptime",
             "stars": 17144
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T07:09:48Z",
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15226
+            "stars": 15228
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-18T01:22:58Z",
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 11891
+            "stars": 11896
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 793866369,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T22:14:27Z",
+            "last_commit": "2026-08-24T18:05:06Z",
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10746
+            "stars": 10748
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-24T10:48:51Z",
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7374
+            "stars": 7375
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-06-01T15:10:21Z",
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3732
+            "stars": 3734
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-06-04T20:21:10Z",
             "owner": "statping-ng",
             "repo": "statping-ng",
-            "stars": 1988
+            "stars": 1987
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-05-24T21:20:21Z",
             "owner": "0xfurai",
             "repo": "peekaping",
-            "stars": 1178
+            "stars": 1179
           }
         },
         {
@@ -342,7 +342,7 @@
             "archived": false,
             "id": 521632923,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:21:28Z",
+            "last_commit": "2026-08-25T00:32:43Z",
             "owner": "mehatab",
             "repo": "fettle",
             "stars": 279
@@ -522,7 +522,7 @@
             "archived": false,
             "id": 1185924743,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:17:23Z",
+            "last_commit": "2026-08-25T03:09:09Z",
             "owner": "bentleypark",
             "repo": "aiwatch",
             "stars": 27
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:52:39Z",
+            "last_commit": "2026-08-25T05:20:07Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:53.244Z",
+    "last_updated": "2026-08-25T05:52:38.172Z",
     "original_repository": "ivbeg/awesome-status-pages",
     "original_repository_id": 85031126,
     "original_repository_sha": "b21533a1459e6e28af650202088d7c51168f06c3",
