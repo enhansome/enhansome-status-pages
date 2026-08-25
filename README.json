@@ -12,10 +12,10 @@
             "archived": false,
             "id": 382496361,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T00:05:49Z",
+            "last_commit": "2026-08-25T07:02:15Z",
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90582
+            "stars": 90586
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-06-01T15:10:21Z",
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3734
+            "stars": 3735
           }
         },
         {
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:20:07Z",
+            "last_commit": "2026-08-25T06:04:57Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:52:38.172Z",
+    "last_updated": "2026-08-25T07:07:04.656Z",
     "original_repository": "ivbeg/awesome-status-pages",
     "original_repository_id": 85031126,
     "original_repository_sha": "b21533a1459e6e28af650202088d7c51168f06c3",
