@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T01:59:56Z",
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90664
+            "stars": 90677
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T07:09:48Z",
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15231
+            "stars": 15230
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-18T01:22:58Z",
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 11909
+            "stars": 11910
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-26T19:30:43Z",
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10756
+            "stars": 10757
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 88166830,
             "language": "HTML",
-            "last_commit": "2026-06-26T16:01:46Z",
+            "last_commit": "2026-08-27T13:54:11Z",
             "owner": "cstate",
             "repo": "cstate",
             "stars": 2892
@@ -225,7 +225,7 @@
             "last_commit": "2026-05-24T21:20:21Z",
             "owner": "0xfurai",
             "repo": "peekaping",
-            "stars": 1179
+            "stars": 1180
           }
         },
         {
@@ -567,10 +567,10 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:09:43Z",
+            "last_commit": "2026-08-27T16:01:16Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 128
+            "stars": 129
           }
         }
       ],
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:06.788Z",
+    "last_updated": "2026-08-27T17:36:30.174Z",
     "original_repository_info": {
       "archived": false,
       "id": 85031126,
@@ -586,7 +586,7 @@
       "last_commit": "2026-07-29T10:05:21Z",
       "owner": "ivbeg",
       "repo": "awesome-status-pages",
-      "stars": 3790
+      "stars": 3791
     },
     "original_repository_sha": "b21533a1459e6e28af650202088d7c51168f06c3",
     "enhanced_repository": "enhansome/enhansome-status-pages",
