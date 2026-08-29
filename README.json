@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fancy self-hosted monitoring tool",
+            "homepage": "https://uptime.kuma.pet",
             "id": 382496361,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T04:55:02Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:06:13Z",
+            "open_issues": 792,
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90715
+            "stars": 90721,
+            "topics": [
+              "docker",
+              "monitor",
+              "monitoring",
+              "responsive",
+              "self-hosted",
+              "selfhosted",
+              "single-page-app",
+              "socket-io",
+              "uptime",
+              "uptime-monitoring",
+              "webapp",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -26,12 +44,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
+            "homepage": "https://upptime.js.org",
             "id": 286080143,
             "language": "Markdown",
-            "last_commit": "2026-08-28T10:55:06Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:57:19Z",
+            "open_issues": 65,
             "owner": "upptime",
             "repo": "upptime",
-            "stars": 17147
+            "stars": 17148,
+            "topics": [
+              "incidents-reports",
+              "status",
+              "statuspage",
+              "upptime",
+              "uptime",
+              "uptime-monitor"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -42,12 +72,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚦 Cachet, the open source, self-hosted status page system.",
+            "homepage": "https://cachethq.io",
             "id": 26730195,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T07:09:48Z",
+            "open_issues": 6,
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15229
+            "stars": 15229,
+            "topics": [
+              "cachet",
+              "laravel",
+              "php",
+              "self-hosted",
+              "selfhosted",
+              "status-page",
+              "statuspages"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -58,12 +101,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated developer-oriented status page with alerting and incident support",
+            "homepage": "https://gatus.io",
             "id": 206214867,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:05:18Z",
+            "open_issues": 379,
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 11919
+            "stars": 11922,
+            "topics": [
+              "alerting",
+              "container",
+              "dashboard",
+              "devops",
+              "docker",
+              "go",
+              "golang",
+              "health",
+              "monitor",
+              "monitoring",
+              "monitoring-tool",
+              "notifications",
+              "self-hosted",
+              "selfhosted",
+              "slack",
+              "status",
+              "status-page",
+              "statuspage",
+              "uptime",
+              "uptime-monitoring"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -74,12 +143,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)",
+            "homepage": "https://checkmate.so/",
             "id": 793866369,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:09:04Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:40:42Z",
+            "open_issues": 110,
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10760
+            "stars": 10761,
+            "topics": [
+              "good-first-contribution",
+              "good-first-issue",
+              "good-first-project",
+              "hacktoberfest",
+              "help-wanted",
+              "incident",
+              "infrastructure",
+              "infrastructure-monitoring",
+              "mui",
+              "mui-material",
+              "server-monitor",
+              "server-monitoring",
+              "server-monitoring-tools",
+              "statuspage",
+              "uptime",
+              "uptime-checker",
+              "uptime-monitor",
+              "uptime-monitoring",
+              "uptime-status",
+              "uptimerobot"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -90,12 +185,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered next-generation open source real-time observability system.",
+            "homepage": "https://hertzbeat.apache.org/",
             "id": 455584258,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:38:01Z",
+            "open_issues": 303,
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7378
+            "stars": 7379,
+            "topics": [
+              "agent",
+              "ai",
+              "alerting",
+              "database",
+              "grafana",
+              "linux",
+              "llm",
+              "logs",
+              "metrics",
+              "monitor",
+              "monitoring",
+              "notifications",
+              "observability",
+              "prometheus",
+              "self-hosted",
+              "server",
+              "status",
+              "status-page",
+              "uptime",
+              "zabbix"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -106,12 +227,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A statuspage generator that lets you host your statuspage for free on Github.",
+            "homepage": "https://corestatus.io",
             "id": 52598117,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-15T03:21:27Z",
+            "open_issues": 37,
             "owner": "jayfk",
             "repo": "statuspage",
-            "stars": 3871
+            "stars": 3871,
+            "topics": [
+              "generator",
+              "monitoring",
+              "statuspage"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -122,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks",
+            "homepage": null,
             "id": 704810343,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-01T15:10:21Z",
+            "open_issues": 21,
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3749
+            "stars": 3747,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -138,12 +273,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.",
+            "homepage": "https://cstate.uncascade.com/",
             "id": 88166830,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:54:11Z",
+            "open_issues": 9,
             "owner": "cstate",
             "repo": "cstate",
-            "stars": 2892
+            "stars": 2892,
+            "topics": [
+              "dark-theme",
+              "downtime",
+              "gh-pages",
+              "github-pages",
+              "hacktoberfest",
+              "hugo",
+              "hyperfast-golang",
+              "ie11",
+              "netlify-cms",
+              "no-javascript",
+              "serverless",
+              "status",
+              "status-page",
+              "status-pages",
+              "statuspage",
+              "uptime-monitor",
+              "uptime-monitoring"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -154,12 +312,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.",
+            "homepage": "https://status-page.eidam.dev",
             "id": 311061056,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-21T08:32:55Z",
+            "open_issues": 46,
             "owner": "eidam",
             "repo": "cf-workers-status-page",
-            "stars": 2810
+            "stars": 2810,
+            "topics": [
+              "cloudflare-workers",
+              "cloudflare-workers-cron",
+              "cloudflare-workers-kv",
+              "discord",
+              "flareact",
+              "monitoring",
+              "slack-notifications",
+              "status-page",
+              "telegram-notification",
+              "wrangler"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -170,12 +344,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.",
+            "homepage": "https://statping-ng.github.io",
             "id": 384092070,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-04T20:21:10Z",
+            "open_issues": 193,
             "owner": "statping-ng",
             "repo": "statping-ng",
-            "stars": 1987
+            "stars": 1987,
+            "topics": [
+              "go",
+              "monitoring",
+              "monitoring-server",
+              "ping",
+              "status",
+              "status-page",
+              "uptime",
+              "uptime-monitor",
+              "vuejs",
+              "website-monitoring"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -186,12 +376,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP checks & tests (private & public) monitoring - check the status of your URL",
+            "homepage": "https://brotandgames.com/ciao/",
             "id": 197053097,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-16T17:12:32Z",
+            "open_issues": 2,
             "owner": "brotandgames",
             "repo": "ciao",
-            "stars": 1977
+            "stars": 1977,
+            "topics": [
+              "alerting",
+              "application-monitoring",
+              "http",
+              "monitoring",
+              "prometheus",
+              "uptime",
+              "website-monitor"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -202,12 +405,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).",
+            "homepage": "https://crates.io/crates/vigil-server",
             "id": 116993819,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-05-03T19:22:13Z",
+            "open_issues": 42,
             "owner": "valeriansaliou",
             "repo": "vigil",
-            "stars": 1941
+            "stars": 1942,
+            "topics": [
+              "email-notifications",
+              "infrastructure",
+              "infrastructure-services",
+              "microservices",
+              "monitor",
+              "monitoring",
+              "servers",
+              "slack",
+              "slack-notifications",
+              "sms-notifications",
+              "status",
+              "statuspage",
+              "vigil",
+              "webhook-events"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -218,12 +441,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor your Website and APIs from your Computer. Get Notified through Slack, E-mail when your server is down or response time is more than expected. ",
+            "homepage": null,
             "id": 41440228,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-11T16:30:28Z",
+            "open_issues": 35,
             "owner": "sanathp",
             "repo": "statusok",
-            "stars": 1644
+            "stars": 1644,
+            "topics": [
+              "monitor",
+              "monitoring-server",
+              "notifications",
+              "slack",
+              "statusok"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -234,12 +468,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Uptime Kuma Alternative",
+            "homepage": "https://peekaping.com",
             "id": 994983023,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-24T21:20:21Z",
+            "open_issues": 92,
             "owner": "0xfurai",
             "repo": "peekaping",
-            "stars": 1180
+            "stars": 1180,
+            "topics": [
+              "monitor",
+              "monitoring",
+              "self-hosted",
+              "selfhosted",
+              "telemetry",
+              "uptime",
+              "uptime-monitoring"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -250,12 +497,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, zero-dependency, pure js/html status page based on GitHub Pages and Actions.",
+            "homepage": null,
             "id": 374059256,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-05-01T04:55:11Z",
+            "open_issues": 2,
             "owner": "statsig-io",
             "repo": "statuspage",
-            "stars": 771
+            "stars": 771,
+            "topics": [
+              "availability",
+              "availability-monitor",
+              "statsig",
+              "status-page"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -266,12 +523,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚦Bash script to generate a static status page.",
+            "homepage": "https://cyclenerd.github.io/static_status/",
             "id": 77903589,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-15T07:06:07Z",
+            "open_issues": 5,
             "owner": "Cyclenerd",
             "repo": "static_status",
-            "stars": 734
+            "stars": 734,
+            "topics": [
+              "bash",
+              "bash-hacks",
+              "bash-script",
+              "github-actions",
+              "incidents",
+              "monitoring",
+              "monitoring-tool",
+              "outage",
+              "simple",
+              "status",
+              "statuspage",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -282,12 +557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static status page generator",
+            "homepage": null,
             "id": 352190659,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-01-20T20:56:39Z",
+            "open_issues": 5,
             "owner": "bderenzo",
             "repo": "tinystatus",
-            "stars": 515
+            "stars": 515,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -298,12 +578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom",
+            "homepage": null,
             "id": 491737,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-05-14T19:19:19Z",
+            "open_issues": 35,
             "owner": "Purple-Devs",
             "repo": "health_check",
-            "stars": 481
+            "stars": 481,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -314,12 +599,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible, modern and blazingly fast ☄️ status page",
+            "homepage": "https://tadhglewis.github.io/issue-status",
             "id": 270517299,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-24T11:35:12Z",
+            "open_issues": 18,
             "owner": "tadhglewis",
             "repo": "issue-status",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "incident-management",
+              "issue-status",
+              "status-page",
+              "system-monitoring"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -330,12 +625,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, modern looking server status page with administration and some nice features, that can run even on shared webhosting",
+            "homepage": "https://demo.status.sajdl.com/",
             "id": 109314090,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-05T10:11:38Z",
+            "open_issues": 29,
             "owner": "server-status-project",
             "repo": "server-status",
-            "stars": 408
+            "stars": 408,
+            "topics": [
+              "multilanguage",
+              "multilanguage-support",
+              "php",
+              "shared-webhosting",
+              "status-dashboard",
+              "status-page",
+              "statuspage",
+              "uptime",
+              "uptime-check",
+              "uptime-monitor",
+              "uptime-robot",
+              "uptimerobot"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -346,12 +659,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, remotely configurable monitoring service.",
+            "homepage": null,
             "id": 468033120,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-04T15:32:55Z",
+            "open_issues": 1,
             "owner": "thevxn",
             "repo": "dish",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "alerting",
+              "docker-compose",
+              "fortheloveofcode",
+              "go",
+              "golang",
+              "monitoring",
+              "monitoring-automation",
+              "monitoring-systems",
+              "monitoring-tool",
+              "networking",
+              "telegram"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -362,12 +692,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free GitHub-powered beautiful status page utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management. Make sure to share love by giving it a star.🌟",
+            "homepage": "https://fettle.mehatab.info",
             "id": 521632923,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T07:23:29Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:33:28Z",
+            "open_issues": 6,
             "owner": "mehatab",
             "repo": "fettle",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "monitoring",
+              "nextjs",
+              "status",
+              "status-page"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -378,12 +718,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Service Health Dashboard for Kubernetes, Containers and more...",
+            "homepage": null,
             "id": 202008893,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-05T16:54:38Z",
+            "open_issues": 10,
             "owner": "tmobile",
             "repo": "kardio",
-            "stars": 233
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -394,12 +739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rails plugin which provides a health checking and monitoring API of various services and application aspects.",
+            "homepage": null,
             "id": 15967474,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-04-27T23:44:42Z",
+            "open_issues": 4,
             "owner": "lbeder",
             "repo": "health-monitor-rails",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -410,12 +760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 180396989,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-08-31T01:20:53Z",
+            "open_issues": 1,
             "owner": "weeblrpress",
             "repo": "clearstatus",
-            "stars": 161
+            "stars": 161,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -426,12 +781,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple self-hosted status page site with an API written in Django under the BSD license",
+            "homepage": "https://darkpixel.github.com/statuspage/",
             "id": 29071676,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-04-22T23:33:06Z",
+            "open_issues": 8,
             "owner": "darkpixel",
             "repo": "statuspage",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "django-application",
+              "status",
+              "statuspage"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -442,12 +806,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerShell Generated Status Page",
+            "homepage": null,
             "id": 173799990,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-04-11T10:18:54Z",
+            "open_issues": 3,
             "owner": "EvotecIT",
             "repo": "Statusimo",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "hacktoberfest",
+              "html",
+              "powershell",
+              "status-page"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -458,12 +832,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mountable status page for your Rails application, to check Cache, Redis, Sidekiq ...",
+            "homepage": null,
             "id": 55595410,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-09-29T12:53:11Z",
+            "open_issues": 5,
             "owner": "rails-engine",
             "repo": "status-page",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -474,12 +853,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open Source Statuspage Software",
+            "homepage": "https://docs.status-page.dev",
             "id": 345375212,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-28T16:55:43Z",
+            "open_issues": 17,
             "owner": "Status-Page",
             "repo": "Status-Page",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "incident",
+              "queued-jobs",
+              "statuspage",
+              "tailwind-ui",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -490,12 +880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Batteries included open-source api-first status page aggregator",
+            "homepage": "https://metoro.io/statusphere",
             "id": 777739659,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-27T09:51:32Z",
+            "open_issues": 8,
             "owner": "metoro-io",
             "repo": "statusphere",
-            "stars": 69
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -506,12 +901,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A One-File Nodejs Server Status Monitoring Tool.",
+            "homepage": "https://apulse.ybouane.com",
             "id": 869750212,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-24T18:47:59Z",
+            "open_issues": 0,
             "owner": "ybouane",
             "repo": "aPulse",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "latency",
+              "monitor",
+              "monitoring",
+              "network-monitoring",
+              "nodejs",
+              "server",
+              "server-admin",
+              "server-administration",
+              "server-status",
+              "server-status-checker",
+              "status",
+              "tool",
+              "webdev"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -522,12 +936,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A django based status page.",
+            "homepage": null,
             "id": 78775187,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-29T14:49:42Z",
+            "open_issues": 4,
             "owner": "edigiacomo",
             "repo": "django-statusboard",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "django",
+              "python",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -538,12 +961,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Status page build using GitHub Pages and GitHub actions. Auto-updates and auto-deploys",
+            "homepage": "http://bullrich.dev/Status-Page/",
             "id": 836141147,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-08-07T08:47:38Z",
+            "open_issues": 5,
             "owner": "Bullrich",
             "repo": "Status-Page",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -554,12 +982,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time monitoring dashboard for 45 AI services — uptime, latency, incidents, AIWatch Score reliability ranking.",
+            "homepage": "https://ai-watch.dev/",
             "id": 1185924743,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T09:38:13Z",
+            "open_issues": 72,
             "owner": "bentleypark",
             "repo": "aiwatch",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "ai",
+              "ai-monitoring",
+              "cloudflare-workers",
+              "dashboard",
+              "devtools",
+              "monitoring",
+              "react",
+              "status-page"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -570,12 +1012,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Status page generator based on prometheus metrics",
+            "homepage": null,
             "id": 723683640,
             "language": "Svelte",
+            "license": null,
             "last_commit": "2026-04-13T08:50:50Z",
+            "open_issues": 14,
             "owner": "agrrh",
             "repo": "pagetron",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -586,12 +1033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MOSSBoard - Max's OpenSource Status Board",
+            "homepage": null,
             "id": 1205884709,
             "language": "Vue",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-17T22:30:04Z",
+            "open_issues": 1,
             "owner": "lanbugs",
             "repo": "mossboard",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -602,12 +1054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:16:42Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:17:54Z",
+            "open_issues": 15,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         }
@@ -616,15 +1073,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:38:40.054Z",
+    "last_updated": "2026-08-29T04:19:39.183Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of status page open source software, services and public status pages of major internet companies",
+      "homepage": null,
       "id": 85031126,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-29T10:05:21Z",
+      "open_issues": 34,
       "owner": "ivbeg",
       "repo": "awesome-status-pages",
-      "stars": 3792
+      "stars": 3792,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "monitoring",
+        "opensource",
+        "status",
+        "statuspage"
+      ]
     },
     "original_repository_sha": "b21533a1459e6e28af650202088d7c51168f06c3",
     "enhanced_repository": "enhansome/enhansome-status-pages",
