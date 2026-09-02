@@ -15,11 +15,11 @@
             "id": 382496361,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T00:07:30Z",
-            "open_issues": 793,
+            "last_commit": "2026-09-02T00:06:57Z",
+            "open_issues": 794,
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 90831,
+            "stars": 90873,
             "topics": [
               "docker",
               "monitor",
@@ -49,7 +49,7 @@
             "id": 286080143,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-01T04:26:22Z",
+            "last_commit": "2026-09-02T03:49:43Z",
             "open_issues": 65,
             "owner": "upptime",
             "repo": "upptime",
@@ -81,7 +81,7 @@
             "open_issues": 6,
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15232,
+            "stars": 15234,
             "topics": [
               "cachet",
               "laravel",
@@ -107,10 +107,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:05:18Z",
-            "open_issues": 380,
+            "open_issues": 383,
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 11948,
+            "stars": 11958,
             "topics": [
               "alerting",
               "container",
@@ -148,11 +148,11 @@
             "id": 793866369,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T19:12:55Z",
-            "open_issues": 104,
+            "last_commit": "2026-09-02T02:40:32Z",
+            "open_issues": 108,
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10771,
+            "stars": 10780,
             "topics": [
               "good-first-contribution",
               "good-first-issue",
@@ -191,10 +191,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T01:36:29Z",
-            "open_issues": 304,
+            "open_issues": 305,
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7380,
+            "stars": 7381,
             "topics": [
               "agent",
               "ai",
@@ -261,7 +261,7 @@
             "open_issues": 21,
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3755,
+            "stars": 3756,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -411,10 +411,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-05-03T19:22:13Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "valeriansaliou",
             "repo": "vigil",
-            "stars": 1943,
+            "stars": 1944,
             "topics": [
               "email-notifications",
               "infrastructure",
@@ -477,7 +477,7 @@
             "open_issues": 92,
             "owner": "0xfurai",
             "repo": "peekaping",
-            "stars": 1182,
+            "stars": 1184,
             "topics": [
               "monitor",
               "monitoring",
@@ -506,7 +506,7 @@
             "open_issues": 2,
             "owner": "statsig-io",
             "repo": "statuspage",
-            "stars": 771,
+            "stars": 770,
             "topics": [
               "availability",
               "availability-monitor",
@@ -697,7 +697,7 @@
             "id": 521632923,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T02:21:28Z",
+            "last_commit": "2026-09-02T01:43:00Z",
             "open_issues": 6,
             "owner": "mehatab",
             "repo": "fettle",
@@ -727,7 +727,7 @@
             "open_issues": 10,
             "owner": "tmobile",
             "repo": "kardio",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -977,36 +977,6 @@
         },
         {
           "node_type": "item",
-          "title": "AIWatch",
-          "description": "Open-source dashboard for monitoring third-party AI services (31 services including Claude, OpenAI, Gemini, Mistral, Groq) with reliability scoring, incident analysis, and Discord/Slack alerts. Built on Cloudflare Workers + KV. Live demo at https://ai-watch.dev. AGPL-3.0.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Real-time monitoring dashboard for 45 AI services — uptime, latency, incidents, AIWatch Score reliability ranking.",
-            "homepage": "https://ai-watch.dev/",
-            "id": 1185924743,
-            "language": "TypeScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T11:19:47Z",
-            "open_issues": 73,
-            "owner": "bentleypark",
-            "repo": "aiwatch",
-            "stars": 27,
-            "topics": [
-              "ai",
-              "ai-monitoring",
-              "cloudflare-workers",
-              "dashboard",
-              "devtools",
-              "monitoring",
-              "react",
-              "status-page"
-            ]
-          },
-          "first_seen": "2026-08-28T18:38:40.054Z"
-        },
-        {
-          "node_type": "item",
           "title": "Pagetron",
           "description": "Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters",
           "children": [],
@@ -1021,8 +991,38 @@
             "open_issues": 13,
             "owner": "agrrh",
             "repo": "pagetron",
-            "stars": 27,
+            "stars": 28,
             "topics": []
+          },
+          "first_seen": "2026-08-28T18:38:40.054Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AIWatch",
+          "description": "Open-source dashboard for monitoring third-party AI services (31 services including Claude, OpenAI, Gemini, Mistral, Groq) with reliability scoring, incident analysis, and Discord/Slack alerts. Built on Cloudflare Workers + KV. Live demo at https://ai-watch.dev. AGPL-3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Real-time monitoring dashboard for 45 AI services — uptime, latency, incidents, AIWatch Score reliability ranking.",
+            "homepage": "https://ai-watch.dev/",
+            "id": 1185924743,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-02T11:11:23Z",
+            "open_issues": 74,
+            "owner": "bentleypark",
+            "repo": "aiwatch",
+            "stars": 27,
+            "topics": [
+              "ai",
+              "ai-monitoring",
+              "cloudflare-workers",
+              "dashboard",
+              "devtools",
+              "monitoring",
+              "react",
+              "status-page"
+            ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -1059,11 +1059,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T11:31:45Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-02T11:02:10Z",
+            "open_issues": 45,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:35:58.679Z",
+    "last_updated": "2026-09-02T11:14:06.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of status page open source software, services and public status pages of major internet companies",
@@ -1082,10 +1082,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-07-29T10:05:21Z",
-      "open_issues": 34,
+      "open_issues": 36,
       "owner": "ivbeg",
       "repo": "awesome-status-pages",
-      "stars": 3794,
+      "stars": 3796,
       "topics": [
         "awesome",
         "awesome-list",
