@@ -15,11 +15,11 @@
             "id": 382496361,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T00:07:00Z",
-            "open_issues": 799,
+            "last_commit": "2026-09-07T00:06:40Z",
+            "open_issues": 801,
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 91032,
+            "stars": 91075,
             "topics": [
               "docker",
               "monitor",
@@ -49,11 +49,11 @@
             "id": 286080143,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-06T03:52:30Z",
+            "last_commit": "2026-09-07T03:51:31Z",
             "open_issues": 65,
             "owner": "upptime",
             "repo": "upptime",
-            "stars": 17153,
+            "stars": 17152,
             "topics": [
               "incidents-reports",
               "status",
@@ -77,11 +77,11 @@
             "id": 26730195,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T07:28:51Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-07T07:02:35Z",
+            "open_issues": 7,
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15235,
+            "stars": 15237,
             "topics": [
               "cachet",
               "laravel",
@@ -110,7 +110,7 @@
             "open_issues": 382,
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 12001,
+            "stars": 12012,
             "topics": [
               "alerting",
               "container",
@@ -148,8 +148,8 @@
             "id": 793866369,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T01:14:17Z",
-            "open_issues": 114,
+            "last_commit": "2026-09-07T10:57:02Z",
+            "open_issues": 122,
             "owner": "bluewave-labs",
             "repo": "Checkmate",
             "stars": 10795,
@@ -190,8 +190,8 @@
             "id": 455584258,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T07:46:33Z",
-            "open_issues": 310,
+            "last_commit": "2026-09-07T09:48:07Z",
+            "open_issues": 312,
             "owner": "apache",
             "repo": "hertzbeat",
             "stars": 7385,
@@ -261,7 +261,7 @@
             "open_issues": 21,
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3768,
+            "stars": 3773,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -282,7 +282,7 @@
             "open_issues": 9,
             "owner": "cstate",
             "repo": "cstate",
-            "stars": 2891,
+            "stars": 2892,
             "topics": [
               "dark-theme",
               "downtime",
@@ -321,7 +321,7 @@
             "open_issues": 46,
             "owner": "eidam",
             "repo": "cf-workers-status-page",
-            "stars": 2808,
+            "stars": 2807,
             "topics": [
               "cloudflare-workers",
               "cloudflare-workers-cron",
@@ -385,7 +385,7 @@
             "open_issues": 2,
             "owner": "brotandgames",
             "repo": "ciao",
-            "stars": 1978,
+            "stars": 1979,
             "topics": [
               "alerting",
               "application-monitoring",
@@ -414,7 +414,7 @@
             "open_issues": 43,
             "owner": "valeriansaliou",
             "repo": "vigil",
-            "stars": 1946,
+            "stars": 1947,
             "topics": [
               "email-notifications",
               "infrastructure",
@@ -450,7 +450,7 @@
             "open_issues": 35,
             "owner": "sanathp",
             "repo": "statusok",
-            "stars": 1644,
+            "stars": 1643,
             "topics": [
               "monitor",
               "monitoring-server",
@@ -654,6 +654,32 @@
         },
         {
           "node_type": "item",
+          "title": "Fettle",
+          "description": "An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free GitHub-powered beautiful status page utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management. Make sure to share love by giving it a star.🌟",
+            "homepage": "https://fettle.mehatab.info",
+            "id": 521632923,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-07T01:35:45Z",
+            "open_issues": 6,
+            "owner": "mehatab",
+            "repo": "fettle",
+            "stars": 281,
+            "topics": [
+              "monitoring",
+              "nextjs",
+              "status",
+              "status-page"
+            ]
+          },
+          "first_seen": "2026-08-28T18:38:40.054Z"
+        },
+        {
+          "node_type": "item",
           "title": "dish",
           "description": "Simple and fast socket checker written in Go, can be integrated with a Telegram bot",
           "children": [],
@@ -681,32 +707,6 @@
               "monitoring-tool",
               "networking",
               "telegram"
-            ]
-          },
-          "first_seen": "2026-08-28T18:38:40.054Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Fettle",
-          "description": "An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free GitHub-powered beautiful status page utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management. Make sure to share love by giving it a star.🌟",
-            "homepage": "https://fettle.mehatab.info",
-            "id": 521632923,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-06T01:37:29Z",
-            "open_issues": 6,
-            "owner": "mehatab",
-            "repo": "fettle",
-            "stars": 280,
-            "topics": [
-              "monitoring",
-              "nextjs",
-              "status",
-              "status-page"
             ]
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -1008,8 +1008,8 @@
             "id": 1185924743,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T10:16:43Z",
-            "open_issues": 80,
+            "last_commit": "2026-09-07T10:38:14Z",
+            "open_issues": 76,
             "owner": "bentleypark",
             "repo": "aiwatch",
             "stars": 27,
@@ -1059,8 +1059,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T10:48:51Z",
-            "open_issues": 134,
+            "last_commit": "2026-09-07T10:13:57Z",
+            "open_issues": 146,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 132,
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T10:52:25.734Z",
+    "last_updated": "2026-09-07T12:26:17.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of status page open source software, services and public status pages of major internet companies",
