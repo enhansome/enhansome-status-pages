@@ -15,11 +15,11 @@
             "id": 382496361,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T00:06:40Z",
-            "open_issues": 801,
+            "last_commit": "2026-09-08T05:00:24Z",
+            "open_issues": 800,
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 91075,
+            "stars": 91116,
             "topics": [
               "docker",
               "monitor",
@@ -49,11 +49,11 @@
             "id": 286080143,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-09-07T03:51:31Z",
+            "last_commit": "2026-09-08T04:04:34Z",
             "open_issues": 65,
             "owner": "upptime",
             "repo": "upptime",
-            "stars": 17152,
+            "stars": 17154,
             "topics": [
               "incidents-reports",
               "status",
@@ -81,7 +81,7 @@
             "open_issues": 7,
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15237,
+            "stars": 15238,
             "topics": [
               "cachet",
               "laravel",
@@ -110,7 +110,7 @@
             "open_issues": 382,
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 12012,
+            "stars": 12020,
             "topics": [
               "alerting",
               "container",
@@ -152,7 +152,7 @@
             "open_issues": 122,
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10795,
+            "stars": 10799,
             "topics": [
               "good-first-contribution",
               "good-first-issue",
@@ -190,11 +190,11 @@
             "id": 455584258,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T09:48:07Z",
-            "open_issues": 312,
+            "last_commit": "2026-09-08T03:45:05Z",
+            "open_issues": 314,
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7385,
+            "stars": 7387,
             "topics": [
               "agent",
               "ai",
@@ -261,7 +261,7 @@
             "open_issues": 21,
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3773,
+            "stars": 3776,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -282,7 +282,7 @@
             "open_issues": 9,
             "owner": "cstate",
             "repo": "cstate",
-            "stars": 2892,
+            "stars": 2893,
             "topics": [
               "dark-theme",
               "downtime",
@@ -353,7 +353,7 @@
             "open_issues": 193,
             "owner": "statping-ng",
             "repo": "statping-ng",
-            "stars": 1987,
+            "stars": 1988,
             "topics": [
               "go",
               "monitoring",
@@ -664,7 +664,7 @@
             "id": 521632923,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T01:35:45Z",
+            "last_commit": "2026-09-08T01:46:08Z",
             "open_issues": 6,
             "owner": "mehatab",
             "repo": "fettle",
@@ -1008,7 +1008,7 @@
             "id": 1185924743,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T10:38:14Z",
+            "last_commit": "2026-09-08T08:40:22Z",
             "open_issues": 76,
             "owner": "bentleypark",
             "repo": "aiwatch",
@@ -1059,11 +1059,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T10:13:57Z",
-            "open_issues": 146,
+            "last_commit": "2026-09-08T08:04:22Z",
+            "open_issues": 169,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:26:17.811Z",
+    "last_updated": "2026-09-08T11:13:56.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of status page open source software, services and public status pages of major internet companies",
@@ -1082,7 +1082,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-07-29T10:05:21Z",
-      "open_issues": 39,
+      "open_issues": 36,
       "owner": "ivbeg",
       "repo": "awesome-status-pages",
       "stars": 3800,
