@@ -19,7 +19,7 @@
             "open_issues": 830,
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 92077,
+            "stars": 92081,
             "topics": [
               "docker",
               "monitor",
@@ -107,10 +107,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T13:32:31Z",
-            "open_issues": 396,
+            "open_issues": 397,
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 12226,
+            "stars": 12229,
             "topics": [
               "alerting",
               "container",
@@ -191,10 +191,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T08:58:22Z",
-            "open_issues": 243,
+            "open_issues": 244,
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7413,
+            "stars": 7412,
             "topics": [
               "agent",
               "ai",
@@ -282,7 +282,7 @@
             "open_issues": 9,
             "owner": "cstate",
             "repo": "cstate",
-            "stars": 2897,
+            "stars": 2898,
             "topics": [
               "dark-theme",
               "downtime",
@@ -1059,8 +1059,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:44:11Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-03T11:32:54Z",
+            "open_issues": 7,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 140,
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:21.047Z",
+    "last_updated": "2026-10-03T11:37:10.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of status page open source software, services and public status pages of major internet companies",
