@@ -15,11 +15,11 @@
             "id": 382496361,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T00:07:14Z",
-            "open_issues": 828,
+            "last_commit": "2026-10-03T00:06:48Z",
+            "open_issues": 830,
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 92055,
+            "stars": 92077,
             "topics": [
               "docker",
               "monitor",
@@ -49,7 +49,7 @@
             "id": 286080143,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-10-02T04:56:54Z",
+            "last_commit": "2026-10-03T04:40:13Z",
             "open_issues": 64,
             "owner": "upptime",
             "repo": "upptime",
@@ -81,7 +81,7 @@
             "open_issues": 6,
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15255,
+            "stars": 15256,
             "topics": [
               "cachet",
               "laravel",
@@ -107,10 +107,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T13:32:31Z",
-            "open_issues": 395,
+            "open_issues": 396,
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 12222,
+            "stars": 12226,
             "topics": [
               "alerting",
               "container",
@@ -191,10 +191,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T08:58:22Z",
-            "open_issues": 242,
+            "open_issues": 243,
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7414,
+            "stars": 7413,
             "topics": [
               "agent",
               "ai",
@@ -261,7 +261,7 @@
             "open_issues": 22,
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3840,
+            "stars": 3843,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -282,7 +282,7 @@
             "open_issues": 9,
             "owner": "cstate",
             "repo": "cstate",
-            "stars": 2896,
+            "stars": 2897,
             "topics": [
               "dark-theme",
               "downtime",
@@ -321,7 +321,7 @@
             "open_issues": 46,
             "owner": "eidam",
             "repo": "cf-workers-status-page",
-            "stars": 2805,
+            "stars": 2807,
             "topics": [
               "cloudflare-workers",
               "cloudflare-workers-cron",
@@ -437,7 +437,7 @@
         {
           "node_type": "item",
           "title": "StatusOK",
-          "description": null,
+          "description": "sanathp/statusok",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -621,7 +621,7 @@
         {
           "node_type": "item",
           "title": "Server-Status",
-          "description": null,
+          "description": "server-status-project/server-status",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -697,7 +697,7 @@
             "id": 521632923,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T02:51:56Z",
+            "last_commit": "2026-10-03T02:38:49Z",
             "open_issues": 6,
             "owner": "mehatab",
             "repo": "fettle",
@@ -987,8 +987,8 @@
             "id": 1185924743,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T12:25:41Z",
-            "open_issues": 81,
+            "last_commit": "2026-10-03T02:29:19Z",
+            "open_issues": 83,
             "owner": "bentleypark",
             "repo": "aiwatch",
             "stars": 29,
@@ -1059,8 +1059,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:55:25Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T04:44:11Z",
+            "open_issues": 4,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 140,
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:28:51.423Z",
+    "last_updated": "2026-10-03T05:07:21.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of status page open source software, services and public status pages of major internet companies",
