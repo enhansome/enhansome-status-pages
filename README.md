@@ -14,10 +14,10 @@ Awesome list of status pages opensource software, online services, and public st
 
 ## Opensource
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,152 | 🐛 830 | 🌐 JavaScript | 📅 2026-10-06 - A self-hosted monitoring tool like "Uptime Robot".
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,151 | 🐛 831 | 🌐 JavaScript | 📅 2026-10-06 - A self-hosted monitoring tool like "Uptime Robot".
 * [Upptime](https://github.com/upptime/upptime) ⭐ 17,180 | 🐛 64 | 🌐 Markdown | 📅 2026-10-06 - monitor and status page powered by GitHub
 * [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342) ⭐ 15,258 | 🐛 6 | 🌐 PHP | 📅 2026-10-05.
-* [Gatus](https://github.com/TwinProduction/gatus) ⭐ 12,247 | 🐛 400 | 🌐 Go | 📅 2026-10-05 - Automated service health dashboard
+* [Gatus](https://github.com/TwinProduction/gatus) ⭐ 12,248 | 🐛 400 | 🌐 Go | 📅 2026-10-05 - Automated service health dashboard
 * [Checkmate](https://github.com/bluewave-labs/Checkmate) ⭐ 10,912 | 🐛 122 | 🌐 TypeScript | 📅 2026-10-01 (previously "BlueWave Uptime") - Checkmate is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time, featuring a modern UI. Additionally, Checkmate supports E-mail, Webhook, Discord and Slack notifications and has a multi-language frontend.
 * [HertzBeat](https://github.com/dromara/hertzbeat) ⭐ 7,415 | 🐛 238 | 🌐 Java | 📅 2026-10-06 - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
 * ~~[Corestats](https://github.com/jayfk/statuspage) ⭐ 3,871 | 🐛 37 | 🌐 Python | 📅 2022-11-15~~ - *(Discontinued / Un-Supported)*
