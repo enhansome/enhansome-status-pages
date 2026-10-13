@@ -15,11 +15,11 @@
             "id": 382496361,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T00:07:39Z",
-            "open_issues": 833,
+            "last_commit": "2026-10-13T00:07:18Z",
+            "open_issues": 834,
             "owner": "louislam",
             "repo": "uptime-kuma",
-            "stars": 92357,
+            "stars": 92403,
             "topics": [
               "docker",
               "monitor",
@@ -49,11 +49,11 @@
             "id": 286080143,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-10-12T05:27:41Z",
-            "open_issues": 65,
+            "last_commit": "2026-10-13T06:25:11Z",
+            "open_issues": 64,
             "owner": "upptime",
             "repo": "upptime",
-            "stars": 17178,
+            "stars": 17180,
             "topics": [
               "incidents-reports",
               "status",
@@ -77,11 +77,11 @@
             "id": 26730195,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T13:48:52Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-12T20:56:07Z",
+            "open_issues": 7,
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15252,
+            "stars": 15255,
             "topics": [
               "cachet",
               "laravel",
@@ -107,10 +107,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-07T23:37:31Z",
-            "open_issues": 407,
+            "open_issues": 409,
             "owner": "TwiN",
             "repo": "gatus",
-            "stars": 12287,
+            "stars": 12294,
             "topics": [
               "alerting",
               "container",
@@ -149,10 +149,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-09T00:12:59Z",
-            "open_issues": 119,
+            "open_issues": 121,
             "owner": "bluewave-labs",
             "repo": "Checkmate",
-            "stars": 10936,
+            "stars": 10937,
             "topics": [
               "good-first-contribution",
               "good-first-issue",
@@ -190,11 +190,11 @@
             "id": 455584258,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T04:39:30Z",
+            "last_commit": "2026-10-13T10:22:13Z",
             "open_issues": 238,
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7423,
+            "stars": 7424,
             "topics": [
               "agent",
               "ai",
@@ -261,7 +261,7 @@
             "open_issues": 25,
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3864,
+            "stars": 3871,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -282,7 +282,7 @@
             "open_issues": 11,
             "owner": "cstate",
             "repo": "cstate",
-            "stars": 2898,
+            "stars": 2896,
             "topics": [
               "dark-theme",
               "downtime",
@@ -321,7 +321,7 @@
             "open_issues": 46,
             "owner": "eidam",
             "repo": "cf-workers-status-page",
-            "stars": 2806,
+            "stars": 2804,
             "topics": [
               "cloudflare-workers",
               "cloudflare-workers-cron",
@@ -353,7 +353,7 @@
             "open_issues": 193,
             "owner": "statping-ng",
             "repo": "statping-ng",
-            "stars": 1992,
+            "stars": 1990,
             "topics": [
               "go",
               "monitoring",
@@ -385,7 +385,7 @@
             "open_issues": 2,
             "owner": "brotandgames",
             "repo": "ciao",
-            "stars": 1983,
+            "stars": 1982,
             "topics": [
               "alerting",
               "application-monitoring",
@@ -414,7 +414,7 @@
             "open_issues": 43,
             "owner": "valeriansaliou",
             "repo": "vigil",
-            "stars": 1950,
+            "stars": 1951,
             "topics": [
               "email-notifications",
               "infrastructure",
@@ -450,7 +450,7 @@
             "open_issues": 35,
             "owner": "sanathp",
             "repo": "statusok",
-            "stars": 1643,
+            "stars": 1642,
             "topics": [
               "monitor",
               "monitoring-server",
@@ -477,7 +477,7 @@
             "open_issues": 93,
             "owner": "0xfurai",
             "repo": "peekaping",
-            "stars": 1203,
+            "stars": 1200,
             "topics": [
               "monitor",
               "monitoring",
@@ -532,7 +532,7 @@
             "open_issues": 5,
             "owner": "Cyclenerd",
             "repo": "static_status",
-            "stars": 733,
+            "stars": 732,
             "topics": [
               "bash",
               "bash-hacks",
@@ -566,7 +566,7 @@
             "open_issues": 5,
             "owner": "bderenzo",
             "repo": "tinystatus",
-            "stars": 513,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -608,7 +608,7 @@
             "open_issues": 18,
             "owner": "tadhglewis",
             "repo": "issue-status",
-            "stars": 428,
+            "stars": 426,
             "topics": [
               "incident-management",
               "issue-status",
@@ -664,7 +664,7 @@
             "id": 521632923,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T02:59:17Z",
+            "last_commit": "2026-10-13T04:14:20Z",
             "open_issues": 6,
             "owner": "mehatab",
             "repo": "fettle",
@@ -694,7 +694,7 @@
             "open_issues": 1,
             "owner": "thevxn",
             "repo": "dish",
-            "stars": 281,
+            "stars": 280,
             "topics": [
               "alerting",
               "docker-compose",
@@ -748,7 +748,7 @@
             "open_issues": 4,
             "owner": "lbeder",
             "repo": "health-monitor-rails",
-            "stars": 219,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -841,7 +841,28 @@
             "open_issues": 5,
             "owner": "rails-engine",
             "repo": "status-page",
-            "stars": 108,
+            "stars": 106,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:38:40.054Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Statusphere",
+          "description": "Api-first status page aggregator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Batteries included open-source api-first status page aggregator",
+            "homepage": "https://metoro.io/statusphere",
+            "id": 777739659,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-02-27T09:51:32Z",
+            "open_issues": 8,
+            "owner": "metoro-io",
+            "repo": "statusphere",
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
@@ -870,27 +891,6 @@
               "tailwind-ui",
               "translation"
             ]
-          },
-          "first_seen": "2026-08-28T18:38:40.054Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Statusphere",
-          "description": "Api-first status page aggregator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Batteries included open-source api-first status page aggregator",
-            "homepage": "https://metoro.io/statusphere",
-            "id": 777739659,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-02-27T09:51:32Z",
-            "open_issues": 8,
-            "owner": "metoro-io",
-            "repo": "statusphere",
-            "stars": 72,
-            "topics": []
           },
           "first_seen": "2026-08-28T18:38:40.054Z"
         },
@@ -987,8 +987,8 @@
             "id": 1185924743,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T13:44:35Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-13T05:59:52Z",
+            "open_issues": 84,
             "owner": "bentleypark",
             "repo": "aiwatch",
             "stars": 30,
@@ -1059,8 +1059,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T14:55:33Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-13T13:57:15Z",
+            "open_issues": 15,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 143,
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:16:40.822Z",
+    "last_updated": "2026-10-13T14:06:50.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of status page open source software, services and public status pages of major internet companies",
@@ -1082,7 +1082,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-07-29T10:05:21Z",
-      "open_issues": 44,
+      "open_issues": 45,
       "owner": "ivbeg",
       "repo": "awesome-status-pages",
       "stars": 3823,
