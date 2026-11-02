@@ -18,12 +18,12 @@ Awesome list of status pages opensource software, online services, and public st
 
 ## Opensource
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 93,139 | 🐛 850 | 🌐 JavaScript | 📅 2026-11-01 - A self-hosted monitoring tool like "Uptime Robot".
-* [Upptime](https://github.com/upptime/upptime) ⭐ 17,192 | 🐛 64 | 🌐 Markdown | 📅 2026-11-01 - monitor and status page powered by GitHub
-* [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342) ⭐ 15,261 | 🐛 7 | 🌐 PHP | 📅 2026-10-31.
-* [Gatus](https://github.com/TwinProduction/gatus) ⭐ 12,460 | 🐛 436 | 🌐 Go | 📅 2026-10-29 - Automated service health dashboard
-* [Checkmate](https://github.com/bluewave-labs/Checkmate) ⭐ 11,022 | 🐛 89 | 🌐 TypeScript | 📅 2026-10-31 (previously "BlueWave Uptime") - Checkmate is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time, featuring a modern UI. Additionally, Checkmate supports E-mail, Webhook, Discord and Slack notifications and has a multi-language frontend.
-* [HertzBeat](https://github.com/dromara/hertzbeat) ⭐ 7,452 | 🐛 242 | 🌐 Java | 📅 2026-11-01 - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 93,182 | 🐛 856 | 🌐 JavaScript | 📅 2026-11-02 - A self-hosted monitoring tool like "Uptime Robot".
+* [Upptime](https://github.com/upptime/upptime) ⭐ 17,194 | 🐛 64 | 🌐 Markdown | 📅 2026-11-02 - monitor and status page powered by GitHub
+* [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342) ⭐ 15,263 | 🐛 8 | 🌐 PHP | 📅 2026-11-02.
+* [Gatus](https://github.com/TwinProduction/gatus) ⭐ 12,476 | 🐛 436 | 🌐 Go | 📅 2026-10-29 - Automated service health dashboard
+* [Checkmate](https://github.com/bluewave-labs/Checkmate) ⭐ 11,021 | 🐛 89 | 🌐 TypeScript | 📅 2026-10-31 (previously "BlueWave Uptime") - Checkmate is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time, featuring a modern UI. Additionally, Checkmate supports E-mail, Webhook, Discord and Slack notifications and has a multi-language frontend.
+* [HertzBeat](https://github.com/dromara/hertzbeat) ⭐ 7,451 | 🐛 237 | 🌐 Java | 📅 2026-11-02 - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
 * [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,918 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-21 - Another monitoring & status page completely powered by Cloudflare Workers & Pages.
 * ~~[Corestats](https://github.com/jayfk/statuspage) ⭐ 3,869 | 🐛 37 | 🌐 Python | 📅 2022-11-15~~ - *(Discontinued / Un-Supported)*
 * [cState](https://github.com/cstate/cstate) ⭐ 2,904 | 🐛 11 | 🌐 HTML | 📅 2026-10-17 - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
@@ -32,14 +32,14 @@ Awesome list of status pages opensource software, online services, and public st
 * [ciao](https://github.com/brotandgames/ciao) ⭐ 1,982 | 🐛 1 | 🌐 Ruby | 📅 2026-10-25 - checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
 * [Vigil](https://github.com/valeriansaliou/vigil) ⭐ 1,950 | 🐛 43 | 🌐 Rust | 📅 2026-10-10 - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 * [StatusOK](https://github.com/sanathp/statusok) ⭐ 1,640 | 🐛 35 | 🌐 Go | 📅 2021-08-11
-* [Peekaping](https://github.com/0xfurai/peekaping) ⭐ 1,209 | 🐛 54 | 🌐 Go | 📅 2026-10-31 - A self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.
+* [Peekaping](https://github.com/0xfurai/peekaping) ⭐ 1,210 | 🐛 54 | 🌐 Go | 📅 2026-10-31 - A self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.
 * [Statsig's Status Page](https://github.com/statsig-io/statuspage) ⭐ 768 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-29 - A simple, pure html/js, zero-dependency status page powered by GitHub Pages and Actions.
 * [Static status](https://github.com/Cyclenerd/static_status) ⭐ 731 | 🐛 5 | 🌐 Shell | 📅 2026-10-16 - Bash script to generate a static status page
 * [Tinystatus](https://github.com/bderenzo/tinystatus) ⭐ 515 | 🐛 5 | 🌐 Shell | 📅 2026-01-20 - A tiny static status page generator (written in pure shell)
 * [health\_check](https://github.com/ianheggie/health_check) ⭐ 481 | 🐛 35 | 🌐 Shell | 📅 2024-05-14 - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
 * [Issue Status](https://github.com/tadhglewis/issue-status) ⭐ 430 | 🐛 18 | 🌐 TypeScript | 📅 2026-05-24 - Simple, modern and flexible status page
 * [Server-Status](https://github.com/Pryx/server-status) ⭐ 407 | 🐛 29 | 🌐 PHP | 📅 2026-02-05
-* [Fettle](https://github.com/mehatab/fettle) ⭐ 282 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-01 - An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.
+* [Fettle](https://github.com/mehatab/fettle) ⭐ 282 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-02 - An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.
 * [dish](https://github.com/savla-dev/savla-dish) ⭐ 280 | 🐛 1 | 🌐 Go | 📅 2026-06-04 - Simple and fast socket checker written in Go, can be integrated with a Telegram bot
 * [Kardio](https://github.com/tmobile/kardio) ⭐ 234 | 🐛 10 | 🌐 Java | 📅 2024-02-05 - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) ⭐ 218 | 🐛 4 | 🌐 Ruby | 📅 2025-04-27 - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
@@ -51,7 +51,7 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[Status-Page](https://github.com/Status-Page/Status-Page) ⚠️ Archived~~ *(Discontinued)*
 * [aPulse](https://github.com/ybouane/aPulse) ⭐ 64 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-24 - A One-File Nodejs Server Status Monitoring Tool.
 * [django-statusboard](https://github.com/edigiacomo/django-statusboard/) ⭐ 54 | 🐛 4 | 🌐 Python | 📅 2026-05-29 - Django status page application with browser and REST interface.
-* [AIWatch](https://github.com/bentleypark/aiwatch) ⭐ 32 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-01 - Open-source dashboard for monitoring third-party AI services (31 services including Claude, OpenAI, Gemini, Mistral, Groq) with reliability scoring, incident analysis, and Discord/Slack alerts. Built on Cloudflare Workers + KV. Live demo at <https://ai-watch.dev>. AGPL-3.0.
+* [AIWatch](https://github.com/bentleypark/aiwatch) ⭐ 32 | 🐛 70 | 🌐 TypeScript | 📅 2026-11-02 - Open-source dashboard for monitoring third-party AI services (31 services including Claude, OpenAI, Gemini, Mistral, Groq) with reliability scoring, incident analysis, and Discord/Slack alerts. Built on Cloudflare Workers + KV. Live demo at <https://ai-watch.dev>. AGPL-3.0.
 * [GitHub Status Page](https://github.com/Bullrich/Status-Page) ⭐ 31 | 🐛 5 | 🌐 TypeScript | 📅 2024-08-07 - GitHub powered status page utilizing GitHub Actions to fetch metrics, issues to generate report incidents and GitHub pages for hosting.
 * [Pagetron](https://github.com/agrrh/pagetron) ⭐ 29 | 🐛 14 | 🌐 Svelte | 📅 2026-04-13 - Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters
 * [MOSSboard](https://github.com/lanbugs/mossboard) ⭐ 5 | 🐛 5 | 🌐 Vue | 📅 2026-04-17 - MOSSBoard is a self-hosted, Docker-based status page that monitors and displays the operational state of your services, built with python and vuejs.
@@ -70,7 +70,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Kener](https://kener.ing/) - A SvelteKit + Node.js status page with incident management.
 * [YASP](https://yasp.io) - Yet Another Status Page based on Next.JS and Payload CMS. SMTP and Twilio integrations. One-click hostable on Vercel.
 
-- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 152 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-01 — Multi-cluster Kubernetes management console with built-in cluster health dashboards; provides real-time status monitoring across cloud and edge Kubernetes deployments.
+- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 152 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-02 — Multi-cluster Kubernetes management console with built-in cluster health dashboards; provides real-time status monitoring across cloud and edge Kubernetes deployments.
 
 ## Services
 
@@ -248,4 +248,4 @@ Awesome list of status pages opensource software, online services, and public st
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
