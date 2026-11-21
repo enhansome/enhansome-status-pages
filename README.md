@@ -18,28 +18,28 @@ Awesome list of status pages opensource software, online services, and public st
 
 ## Opensource
 
-* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 94,697 | 🐛 857 | 🌐 JavaScript | 📅 2026-11-20 - A self-hosted monitoring tool like "Uptime Robot".
-* [Upptime](https://github.com/upptime/upptime) ⭐ 17,211 | 🐛 64 | 🌐 Markdown | 📅 2026-11-20 - monitor and status page powered by GitHub
-* [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342) ⭐ 15,271 | 🐛 9 | 🌐 PHP | 📅 2026-11-18.
-* [Gatus](https://github.com/TwinProduction/gatus) ⭐ 12,846 | 🐛 447 | 🌐 Go | 📅 2026-11-19 - Automated service health dashboard
-* [Checkmate](https://github.com/bluewave-labs/Checkmate) ⭐ 11,105 | 🐛 109 | 🌐 TypeScript | 📅 2026-11-19 (previously "BlueWave Uptime") - Checkmate is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time, featuring a modern UI. Additionally, Checkmate supports E-mail, Webhook, Discord and Slack notifications and has a multi-language frontend.
-* [HertzBeat](https://github.com/dromara/hertzbeat) ⭐ 7,470 | 🐛 255 | 🌐 Java | 📅 2026-11-19 - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
-* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,948 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-21 - Another monitoring & status page completely powered by Cloudflare Workers & Pages.
+* [Uptime-Kuma](https://github.com/louislam/uptime-kuma) ⭐ 94,736 | 🐛 861 | 🌐 JavaScript | 📅 2026-11-21 - A self-hosted monitoring tool like "Uptime Robot".
+* [Upptime](https://github.com/upptime/upptime) ⭐ 17,211 | 🐛 65 | 🌐 Markdown | 📅 2026-11-21 - monitor and status page powered by GitHub
+* [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342) ⭐ 15,272 | 🐛 9 | 🌐 PHP | 📅 2026-11-18.
+* [Gatus](https://github.com/TwinProduction/gatus) ⭐ 12,855 | 🐛 447 | 🌐 Go | 📅 2026-11-19 - Automated service health dashboard
+* [Checkmate](https://github.com/bluewave-labs/Checkmate) ⭐ 11,111 | 🐛 108 | 🌐 TypeScript | 📅 2026-11-20 (previously "BlueWave Uptime") - Checkmate is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time, featuring a modern UI. Additionally, Checkmate supports E-mail, Webhook, Discord and Slack notifications and has a multi-language frontend.
+* [HertzBeat](https://github.com/dromara/hertzbeat) ⭐ 7,470 | 🐛 259 | 🌐 Java | 📅 2026-11-19 - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
+* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,949 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-21 - Another monitoring & status page completely powered by Cloudflare Workers & Pages.
 * ~~[Corestats](https://github.com/jayfk/statuspage) ⭐ 3,869 | 🐛 37 | 🌐 Python | 📅 2022-11-15~~ - *(Discontinued / Un-Supported)*
-* [cState](https://github.com/cstate/cstate) ⭐ 2,906 | 🐛 7 | 🌐 HTML | 📅 2026-10-17 - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
+* [cState](https://github.com/cstate/cstate) ⭐ 2,906 | 🐛 8 | 🌐 HTML | 📅 2026-10-17 - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) ⭐ 2,812 | 🐛 46 | 🌐 JavaScript | 📅 2024-08-21 - Cloudflare Workers (completely on the edge) powered monitoring & status page.
-* [statping-ng](https://github.com/statping-ng/statping-ng) ⭐ 1,992 | 🐛 195 | 🌐 Go | 📅 2025-06-04 - Actively maintained fork of [statping/statping](https://github.com/statping/statping) ⭐ 7,292 | 🐛 48 | 🌐 Vue | 📅 2024-07-05
+* [statping-ng](https://github.com/statping-ng/statping-ng) ⭐ 1,993 | 🐛 195 | 🌐 Go | 📅 2025-06-04 - Actively maintained fork of [statping/statping](https://github.com/statping/statping) ⭐ 7,292 | 🐛 48 | 🌐 Vue | 📅 2024-07-05
 * [ciao](https://github.com/brotandgames/ciao) ⭐ 1,982 | 🐛 1 | 🌐 Ruby | 📅 2026-11-09 - checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
 * [Vigil](https://github.com/valeriansaliou/vigil) ⭐ 1,951 | 🐛 43 | 🌐 Rust | 📅 2026-10-10 - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 * [StatusOK](https://github.com/sanathp/statusok) ⭐ 1,639 | 🐛 35 | 🌐 Go | 📅 2021-08-11
-* [Peekaping](https://github.com/0xfurai/peekaping) ⭐ 1,229 | 🐛 66 | 🌐 Go | 📅 2026-11-18 - A self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.
+* [Peekaping](https://github.com/0xfurai/peekaping) ⭐ 1,230 | 🐛 66 | 🌐 Go | 📅 2026-11-18 - A self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.
 * [Statsig's Status Page](https://github.com/statsig-io/statuspage) ⭐ 770 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-29 - A simple, pure html/js, zero-dependency status page powered by GitHub Pages and Actions.
 * [Static status](https://github.com/Cyclenerd/static_status) ⭐ 732 | 🐛 5 | 🌐 Shell | 📅 2026-11-15 - Bash script to generate a static status page
-* [Tinystatus](https://github.com/bderenzo/tinystatus) ⭐ 517 | 🐛 5 | 🌐 Shell | 📅 2026-01-20 - A tiny static status page generator (written in pure shell)
+* [Tinystatus](https://github.com/bderenzo/tinystatus) ⭐ 518 | 🐛 5 | 🌐 Shell | 📅 2026-01-20 - A tiny static status page generator (written in pure shell)
 * [health\_check](https://github.com/ianheggie/health_check) ⭐ 480 | 🐛 35 | 🌐 Shell | 📅 2024-05-14 - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
 * [Issue Status](https://github.com/tadhglewis/issue-status) ⭐ 429 | 🐛 18 | 🌐 TypeScript | 📅 2026-05-24 - Simple, modern and flexible status page
 * [Server-Status](https://github.com/Pryx/server-status) ⭐ 407 | 🐛 29 | 🌐 PHP | 📅 2026-02-05
-* [Fettle](https://github.com/mehatab/fettle) ⭐ 281 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-20 - An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.
+* [Fettle](https://github.com/mehatab/fettle) ⭐ 281 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-21 - An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.
 * [dish](https://github.com/savla-dev/savla-dish) ⭐ 280 | 🐛 1 | 🌐 Go | 📅 2026-06-04 - Simple and fast socket checker written in Go, can be integrated with a Telegram bot
 * [Kardio](https://github.com/tmobile/kardio) ⭐ 234 | 🐛 10 | 🌐 Java | 📅 2024-02-05 - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) ⭐ 219 | 🐛 4 | 🌐 Ruby | 📅 2025-04-27 - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
@@ -71,7 +71,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Kener](https://kener.ing/) - A SvelteKit + Node.js status page with incident management.
 * [YASP](https://yasp.io) - Yet Another Status Page based on Next.JS and Payload CMS. SMTP and Twilio integrations. One-click hostable on Vercel.
 
-- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-20 — Multi-cluster Kubernetes management console with built-in cluster health dashboards; provides real-time status monitoring across cloud and edge Kubernetes deployments.
+- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 98 | 🌐 TypeScript | 📅 2026-11-21 — Multi-cluster Kubernetes management console with built-in cluster health dashboards; provides real-time status monitoring across cloud and edge Kubernetes deployments.
 
 ## Services
 
@@ -250,4 +250,4 @@ Awesome list of status pages opensource software, online services, and public st
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
